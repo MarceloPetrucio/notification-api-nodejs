@@ -22,18 +22,18 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## End-points
 
 - POST - Create notifications
-- GET - Count from recipient
+- GET - Count deom recipient
 - GET - Get from recipient
 - PATCH - Cancel notifications
 - PATCH - Read notifications
 - PATCH - Unread notifications
+
+## Description
+
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
