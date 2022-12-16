@@ -29,7 +29,7 @@
 ## End-points
 
 - POST - Create notifications
-- GET - Count deom recipient
+- GET - Count from recipient
 - GET - Get from recipient
 - PATCH - Cancel notifications
 - PATCH - Read notifications
